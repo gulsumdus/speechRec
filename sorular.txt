@@ -1,5 +1,0 @@
-Merhaba: Merhaba! Size nasıl yardımcı olabilirim?
-Hava nasıl olacak?: Bugün hava durumu güzel olacak.
-Sen kimsin?: Ben bir yapay zeka asistanıyım.
-Bu proje ne yapıyor?: Sesli soruları metne çevirerek cevap buluyor ve görüntü işleyerek sınır ihlali tespit ediyor.
-Sınır aşıldı mı?: Eğer belirlenen alan ihlal edilirse sesli uyarı verilir.
